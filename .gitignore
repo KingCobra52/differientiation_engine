@@ -8,6 +8,8 @@ venv/
 .venv/
 env/
 .env/
+diff/
+.diff/
 
 # Environment variables / secrets
 .env
